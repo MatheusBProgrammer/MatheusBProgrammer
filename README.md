@@ -42,6 +42,6 @@ Sou um Desenvolvedor de Software e Analísta de Sistemas em Icó/CE.
 
 - 👔 LinkedIn: [Matheus Barreto](https://www.linkedin.com/in/matheus-barreto-262ab9219/)
 - 📸 Instagram: [@matheusbrrt321](https://www.instagram.com/matheusbrrt321/)
-- 📧 E-mail: [INSIRA_SEU_EMAIL_AQUI]
+- 📧 E-mail: matheusbarretoprogramador@gmail.com
 
 ![Contador de Visitas](https://komarev.com/ghpvc/?username=MatheusBProgrammer&color=blueviolet&style=flat-square)
