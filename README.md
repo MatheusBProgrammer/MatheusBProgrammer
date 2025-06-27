@@ -29,8 +29,6 @@
 
 [![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBProgrammer&layout=compact&theme=radical&locale=pt-br)](https://github.com/MatheusBProgrammer)
 
-![Contribuições Recentes](https://github-contribution-graph.ew.r.appspot.com/?username=MatheusBProgrammer&theme=react-dark)
-
 ## 👨💻 Sobre Mim
 
 Sou um Desenvolvedor de Software e Analísta de Sistemas em Icó/CE. 
