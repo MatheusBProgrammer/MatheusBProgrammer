@@ -112,15 +112,21 @@ const matheus = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusBProgrammer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBProgrammer&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<img src="https://streak-stats.demolab.com?user=MatheusBProgrammer&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=MatheusBProgrammer&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatheusBProgrammer&theme=tokyonight" alt="Profile Summary" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MatheusBProgrammer&theme=tokyonight" alt="Repos per Language" height="180em"/>
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MatheusBProgrammer&theme=tokyonight" alt="Most Commit Language" height="180em"/>
 
 </div>
 
