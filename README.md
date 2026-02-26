@@ -22,7 +22,7 @@
 
 ```ts
 const matheus = {
-  role:       "Software Engineer · Pleno",
+  role: "Mid-Level Full-Stack Software Engineer"
   location:   "Icó / CE — Brazil 🇧🇷",
   mode:       "Freelancer 🚀",
   focus:      ["Flutter + C# (.NET)", "Next.js", "Node.js"],
