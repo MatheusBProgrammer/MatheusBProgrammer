@@ -26,7 +26,7 @@ const matheus = {
   location:   "Icó / CE — Brazil 🇧🇷",
   mode:       "Freelancer 🚀",
   focus:      ["Flutter + C# (.NET)", "Next.js", "Node.js"],
-  passion: "Pragmatic engineer: I advocate for clean architecture when it matters, but I'm not afraid to stick with plain MVC and skip the design patterns when simplicity is the smarter choice."
+  passion: "Pragmatic engineer: I advocate for clean architecture when it matters, but I'm not afraid to stick with plain MVC and skip the design patterns when simplicity is the smarter choice.",
   available:  true,
 };
 ```
